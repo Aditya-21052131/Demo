@@ -1,2 +1,3 @@
 # Demo
-This is a demo repo
+This is a demo repo.
+Author-Aditya Kumar
